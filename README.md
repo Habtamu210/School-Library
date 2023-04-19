@@ -85,7 +85,8 @@ Example command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-
+- Add a class for person, student and Teacher
+- Add decorator for design 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
