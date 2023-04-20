@@ -121,6 +121,6 @@ I would like to thank Microverse which provided me all knowledge about full stac
 
 ## 📝 License <a name="license"></a>
 
-This project is contributed under (MIT License) licensed.
+This project is contributed under (https://github.com/Habtamu210/School-Library/blob/dev/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
