@@ -85,7 +85,8 @@ Example command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-
+- ** Add a class for person, student and Teacher **
+- ** Add decorator for design **
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -120,6 +121,6 @@ I would like to thank Microverse which provided me all knowledge about full stac
 
 ## 📝 License <a name="license"></a>
 
-This project is contributed under [GNU 3.0](./LICENSE.md) licensed.
+This project is contributed under (https://github.com/Habtamu210/School-Library/blob/dev/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
