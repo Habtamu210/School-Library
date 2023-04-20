@@ -87,6 +87,7 @@ Example command:
 
 - ** Add a class for person, student and Teacher **
 - ** Add decorator for design **
+- ** Set up associations between classes and objects **
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
